@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   
+    display: flex;
+   
+    height: 100vh;
+    
+    background: linear-gradient(rgba(0, 0, 0, .85), rgba(0, 0, 0, 0.85)),
+    url(https://static.standard.co.uk/2022/11/16/10/netflix-s.jpg?width=1200);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+#root{
+    flex: 1;
+    
+}
+
+@media (max-width:574px){
+    body{
+    background: linear-gradient(rgba(0, 0, 0, .85), rgba(0, 0, 0, 0.85)),
+    url(https://static.standard.co.uk/2022/11/16/10/netflix-s.jpg?width=1200);
+}
+}
