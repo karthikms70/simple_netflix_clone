@@ -11,3 +11,6 @@ sign in page
 
 ![sign](https://github.com/karthikms70/simple_netflix_clone/assets/109992016/4a7582af-5064-4e79-a6d2-2448bc9ccabb)
 
+Movie search page - only shown after login is successfull
+
+![search](https://github.com/karthikms70/simple_netflix_clone/assets/109992016/7ecaa720-e6cd-4170-b5cc-dcbc367d9c7d)
